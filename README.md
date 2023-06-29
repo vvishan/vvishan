@@ -7,7 +7,7 @@ I would also love to volunteer my time to contributing to open-source projects! 
 # Technologies I Learn
 
 Software:
-### Python, Java, JavaScript, Selenium, R programming, Scala, Numpy, SciPy, Pandas,
+#### Python, Java, JavaScript, Selenium, R programming, Scala, Numpy, SciPy, Pandas,
 ## Keras, Tensorflow,SQL, Apache Spark, Pyspark, hadoop, MapReduce ,Soap and Rest API
 ## AWS cloud Services: AWS(EC2,S3,RDS,VPC,CloudTrail,ELB(Elastic Load Balancer))
 ## Migration Tools:AWS schema Cloud Formation,IAM,Lambda
