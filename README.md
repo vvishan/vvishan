@@ -14,7 +14,7 @@ Software:
 
 # Cerifications I Earn
 
-#### Certified on Python,hadoop, Apache Spark from Data Flair
+Certified on #### Python,hadoop, Apache Spark from Data Flair
 #### Certified on R programming,SQL,Machine Learning,Deep Learning ,Tableau from Edvancer Edvantures pvt ltd
 
 # Technical skills I have
