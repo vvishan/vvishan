@@ -1,6 +1,8 @@
 # About me  👋
 
-Hey there! 😄 My name is Vishnu , pursuing Masters in Data Science and Artificial Intelligence ,currently reside in California , USA. I completed both the Data science,with Machine Learning and Deep Learning from IIT Khanpur certified ,Edvancer Edvantures.
+Hey there! 😄 My name is Vishnu , pursuing Masters in Data Science and Artificial Intelligence at Campbellsville University ,currently reside in California , USA. 
+### Actively looking for Intern Opportunity
+I completed both the Data science,with Machine Learning and Deep Learning from IIT Khanpur certified ,Edvancer Edvantures.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with ML and AI projects. I'm a big proponent of putting an emphasis on accessibility and models development.
 
