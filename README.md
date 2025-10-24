@@ -1,7 +1,7 @@
 # About me  👋
 
 Hey there! 😄 My name is Vishnu , pursuing Masters in Data Science and Artificial Intelligence at Campbellsville University ,currently reside in California , USA. 
-### Actively looking for Intern Opportunity
+### Actively looking for Intern/ Full time Opportunity
 I completed both the Data science,with Machine Learning and Deep Learning from IIT Khanpur certified ,Edvancer Edvantures.
 
 I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with ML and AI projects. I'm a big proponent of putting an emphasis on accessibility and models development.
@@ -9,10 +9,14 @@ I would also love to volunteer my time to contributing to open-source projects! 
 # Technologies I Learn
 
 Software:
-#### Python, Java, JavaScript, Selenium, R programming, Scala, Numpy, SciPy, Pandas,
-#### Keras, Tensorflow,SQL, Apache Spark, Pyspark, hadoop, MapReduce ,Soap and Rest API
-#### AWS cloud Services: AWS(EC2,S3,RDS,VPC,CloudTrail,ELB(Elastic Load Balancer))
-#### Migration Tools:AWS schema Cloud Formation,IAM,Lambda
+#### Languages & Scripting: Python, SQL, PySpark, Bash
+#### Machine Learning & AI: TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers, LangChain, GenAI (LLMs, RAG, Fine-tuning)
+#### MLOps & Workflow Orchestration: MLflow, Kubeflow, Apache Airflow, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+#### Data Engineering & Big Data: Apache Spark, Databricks, Snowflake, Delta Lake, Kafka, ETL Pipelines
+#### Cloud Platforms: AWS (S3, SageMaker, Lambda), Google Cloud (BigQuery, Vertex AI), Azure (Synapse, Data Factory, Machine Learning)
+#### Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis, Pinecone, Weaviate (Vector Databases)
+#### Visualization & Analytics: Power BI, Tableau, Matplotlib, Seaborn
+#### Other Tools: Git, Jupyter, VS Code, Linux
 
 # Cerifications I Earn
 
